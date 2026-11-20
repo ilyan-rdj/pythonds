@@ -1,0 +1,11 @@
+# Données : ne pas versionner (re-téléchargées par le code)
+data/
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Notebooks
+.ipynb_checkpoints/
+# Secrets
+.env
